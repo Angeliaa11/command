@@ -75,6 +75,25 @@ fungsi nya :
 **iostat**      = Menampilkan statistik penggunaan CPU dan perangkat input/output.
 
 
+![Image](https://github.com/user-attachments/assets/a7483f1e-897e-4d1d-ad7d-8d8307e3c44b)
+
+
+**mkdir** = Membuat file bernama angelia.
+
+**cd angelia** = Berpindah ke direktori angelia.
+
+**touch new_file.txt** = Membuat file kosong bernama new_file.txt
+
+**cat new_file.txt**  = Menampilkan isi dari new_file.txt.
+
+                        Karena file masih kosong, tidak ada output yang ditampilkan.
+
+**less new_file.txt** = Menampilkan isi file new_file.txt dengan tampilan per halaman (berguna untuk file besar).
+
+**ls new_file.txt** = Menampilkan file new_file.txt dalam file saat ini, menunjukkan bahwa file tersebut ada.
+
+
+
 
 
 
