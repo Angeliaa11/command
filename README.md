@@ -41,6 +41,12 @@
  **top**  = Perintah ini digunakan untuk menampilkan informasi sistem secara real-time, terutama mengenai penggunaan sumber daya seperti CPU, RAM, dan 
             proses yang berjalan.
 
+![Image](https://github.com/user-attachments/assets/ba382a1d-b769-4bb3-8120-6079eb83813b)
+
+**du -sh** = Menampilkan ukuran total setiap file dan direktori di dalam direktori saat ini dalam format yang mudah dibaca.
+
+**df -h**  = Menampilkan informasi penggunaan ruang disk pada sistem dalam format yang mudah dibaca.
+
 
 
 
