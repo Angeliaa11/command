@@ -2,7 +2,8 @@
 
 **Nim    : 09030282327020**
 
-**Kelas  : TK 4 C**
+**kelas  : TK 4 c**
+
 --
 50 Contoh command beserta fungsinya
 
@@ -77,6 +78,8 @@ fungsi nya :
 
 ![Image](https://github.com/user-attachments/assets/a7483f1e-897e-4d1d-ad7d-8d8307e3c44b)
 
+
+fungsi nya :
 
 **mkdir** = Membuat file bernama angelia.
 
