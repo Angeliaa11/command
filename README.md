@@ -36,6 +36,13 @@
 **ps aux** = - Menampilkan semua proses yang berjalan di sistem, termasuk proses dari pengguna lain dan sistem.
 
 
+![Image](https://github.com/user-attachments/assets/9b0dba20-9db1-43a5-ba46-7aed47479ec9)
+
+ **top**  = Perintah ini digunakan untuk menampilkan informasi sistem secara real-time, terutama mengenai penggunaan sumber daya seperti CPU, RAM, dan 
+            proses yang berjalan.
+
+
+
 
 
 
