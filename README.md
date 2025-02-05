@@ -88,7 +88,6 @@ fungsi nya :
 **touch new_file.txt** = Membuat file kosong bernama new_file.txt
 
 **cat new_file.txt**  = Menampilkan isi dari new_file.txt.
-
                         Karena file masih kosong, tidak ada output yang ditampilkan.
 
 **less new_file.txt** = Menampilkan isi file new_file.txt dengan tampilan per halaman (berguna untuk file besar).
