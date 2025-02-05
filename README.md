@@ -18,4 +18,15 @@
 
 **Ls -a** = Menampilkan semua file, termasuk file tersembunyi (dawali dengan .)
 
+![Image](https://github.com/user-attachments/assets/cdb5cefb-6dfb-4846-a243-b9af8990bda1)
+
+**echo $PATH** = Menampilkan daftar direktori yang termasuk dalam variabel PATH, yaitu tempat sistem mencari program yang bisa dieksekusi.
+
+**which ls**  = Menunjukkan lokasi dari eksekusi suatu perintah.
+
+**history**   = Menampilkan daftar perintah yang telah dieksekusi sebelumnya di terminal.
+
+
+
+
 
