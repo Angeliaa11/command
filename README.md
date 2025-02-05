@@ -27,6 +27,18 @@
 **history**   = Menampilkan daftar perintah yang telah dieksekusi sebelumnya di terminal.
 
 
+![Image](https://github.com/user-attachments/assets/287f4b86-e039-4760-9dcb-028c2a1694bc)
+
+**ps**   = - Menampilkan daftar proses yang sedang berjalan dalam sesi terminal saat ini.
+
+           - Secara default, hanya menampilkan proses milik pengguna yang menjalankan terminal.
+           
+**ps aux** = - Menampilkan semua proses yang berjalan di sistem, termasuk proses dari pengguna lain dan sistem.
+
+
+
+
+
 
 
 
