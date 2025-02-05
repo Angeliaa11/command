@@ -36,7 +36,8 @@ fungsi nya :
 
 fungsi nya :
 
-**ps**   = - Menampilkan daftar proses yang sedang berjalan dalam sesi terminal saat ini.
+**ps**   = 
+- Menampilkan daftar proses yang sedang berjalan dalam sesi terminal saat ini.
 
 - Secara default, hanya menampilkan proses milik pengguna yang menjalankan terminal.
            
@@ -47,8 +48,7 @@ fungsi nya :
 
 fungsi nya :
 
- **top**  = Perintah ini digunakan untuk menampilkan informasi sistem secara real-time, terutama mengenai penggunaan sumber daya seperti CPU, RAM, dan 
-            proses yang berjalan.
+ **top**  = Perintah ini digunakan untuk menampilkan informasi sistem secara real-time, terutama mengenai penggunaan sumber daya seperti CPU, RAM, dan proses yang berjalan.
 
 ![Image](https://github.com/user-attachments/assets/ba382a1d-b769-4bb3-8120-6079eb83813b)
 
@@ -65,7 +65,7 @@ fungsi nya :
 
 **wan_link.txt** = Perintah ini membuat link simbolis (soft link) bernama wan_link.txt yang merujuk ke wan.txt.
 
-**alias 11='ls -lah'** = Membuat alias 11 yang saat dijalankan akan mengeksekusi perintah ls -lah (menampilkan daftar file dengan format panjang, termasuk                            ukuran dalam format yang mudah dibaca).
+**alias 11='ls -lah'** = Membuat alias 11 yang saat dijalankan akan mengeksekusi perintah ls -lah (menampilkan daftar file dengan format panjang, termasuk ukuran dalam format yang mudah dibaca).
 
 **unalias 11**    =  Menghapus alias 11 yang sebelumnya dibuat.
 
