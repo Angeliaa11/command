@@ -37,7 +37,6 @@ fungsi nya :
 fungsi nya :
 
 **ps**   = - Menampilkan daftar proses yang sedang berjalan dalam sesi terminal saat ini.
-
            - Secara default, hanya menampilkan proses milik pengguna yang menjalankan terminal.
            
 **ps aux** = - Menampilkan semua proses yang berjalan di sistem, termasuk proses dari pengguna lain dan sistem.
