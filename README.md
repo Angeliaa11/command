@@ -151,6 +151,12 @@ fungsi nya :
 
 **45. time** = berfungsi mengukur waktu yang dibutuhkan untuk menjalankan suatu perintah.
 
+![Image](https://github.com/user-attachments/assets/70d70bdb-9566-43fe-804c-94fc37900fb0)
+
+**46. dig example.com** = Melakukan query DNS dan menampilkan informasi terkait domain.
+
+
+
 
 
 
