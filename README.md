@@ -133,6 +133,12 @@ fungsi nya :
 
 **39. systemctl** = Berfungsi untuk Mengelola layanan (services) dan unit pada sistem yang menggunakan systemd.
 
+![Image](https://github.com/user-attachments/assets/9d876a05-8f21-4841-b416-88ba2221a7ae)
+
+**40.journalctl** = journalctl digunakan untuk melihat log systemd.
+
+
+
 
 
 
