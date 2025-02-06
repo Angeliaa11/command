@@ -145,6 +145,14 @@ fungsi nya :
 
 **43. pstree** = berfungsi menampilkan proses dalam bentuk pohon.
 
+![Image](https://github.com/user-attachments/assets/f0edbb9f-195f-4245-bcb1-764990e614fe)
+
+**44. journal -f** = berfungsi menampilkan log sistem secara real-time.
+
+**45. time** = berfungsi mengukur waktu yang dibutuhkan untuk menjalankan suatu perintah.
+
+
+
 
 
 
