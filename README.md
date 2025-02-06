@@ -99,6 +99,18 @@ fungsi nya :
 
 **26. sudo** = Memberikan izin untuk menjalankan perintah
 
+**27. apt update** = Berfungsi untuk memperbarui informasi paket yang tersedia dari repository
+
+**28. sudo apt upgrade** = Meng-upgrade semua paket yang telah terinstal ke versi terbaru berdasarkan daftar paket yang diperbarui                                sebelumnya.
+
+**29. free -h** = Menampilkan informasi penggunaan memori dalam format yang lebih mudah dibaca.
+
+**30. uname -a** = Menampilkan informasi lengkap tentang sistem operasi, kernel, dan arsitektur.
+
+**31. hostname** = Menampilkan nama host dari komputer.
+
+**32. ifconfig** = Perintah ini mencoba menampilkan informasi jaringan.
+
 
 
 
