@@ -137,6 +137,18 @@ fungsi nya :
 
 **40.journalctl** = journalctl digunakan untuk melihat log systemd.
 
+![Image](https://github.com/user-attachments/assets/f8220012-c80f-4401-b6f4-108ea9c96d0f)
+
+**41. id** = berfungsi menampilkan informasi identitas pengguna.
+
+**42. route** = berfungsi menampilkan atau memanipulasi tabel routing IP.
+
+**43. pstree** = berfungsi menampilkan proses dalam bentuk pohon.
+
+
+
+
+
 
 
 
