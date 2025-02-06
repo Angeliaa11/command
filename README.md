@@ -111,6 +111,12 @@ fungsi nya :
 
 **32. ifconfig** = Perintah ini mencoba menampilkan informasi jaringan.
 
+![Image](https://github.com/user-attachments/assets/88935bf2-9b08-4079-a6bd-c43c4e7cc3cd)
+
+**33. sudo apt autoremove** = Perintah ini digunakan untuk menghapus paket yang sudah tidak diperlukan oleh sistem.
+
+
+
 
 
 
