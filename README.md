@@ -161,6 +161,15 @@ fungsi nya :
 
 **48. lspci** = berfungsi untuk Menampilkan informasi perangkat PCI.
 
+![Image](https://github.com/user-attachments/assets/7c0fa882-cd20-4b9f-9e6c-a7c7fe6801bf)
+
+**49. clear** =  Berfungsi untukk membersihkan layar terminal
+
+![Image](https://github.com/user-attachments/assets/1482523a-15fc-4d1f-ac3e-4ad8b06809f8)
+
+**50. exit** = berfungsi untuk keluar dari terminal
+
+
 
 
 
