@@ -115,6 +115,12 @@ fungsi nya :
 
 **33. sudo apt autoremove** = Perintah ini digunakan untuk menghapus paket yang sudah tidak diperlukan oleh sistem.
 
+![Image](https://github.com/user-attachments/assets/fd240f0f-0dbc-4dfc-bd95-dead90d07553)
+
+**34. last** = Berfungsi untuk menampilkan riwayat login pengguna ke sistem.
+
+
+
 
 
 
