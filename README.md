@@ -94,6 +94,9 @@ fungsi nya :
 
 **25. ls new_file.txt** = Menampilkan file new_file.txt dalam file saat ini, menunjukkan bahwa file tersebut ada.
 
+![Image](https://github.com/user-attachments/assets/260a5e2d-4a7e-4cf9-9f9d-fafc7a086da4)
+
+**26. sudo** = Memberikan izin untuk menjalankan perintah
 
 
 
