@@ -125,6 +125,16 @@ fungsi nya :
 
 **36. env** = digunakan untuk menampilkan daftar variabel lingkungan (environment variables) yang aktif di sistem operasi, serta                     nilai- nilai yang terkait dengan variabel tersebut.
 
+![Image](https://github.com/user-attachments/assets/1da484bb-4080-48a3-a80d-ef02a7d8d6e0)
+
+**37. man ls** = digunakan untuk menampilkan manual atau panduan penggunaan dari perintah ls di sistem operasi
+
+**38. echo** = Berfungsi untuk mencetak teks atau variabel ke terminal.
+
+**39. systemctl** = Berfungsi untuk Mengelola layanan (services) dan unit pada sistem yang menggunakan systemd.
+
+
+
 
 
 
