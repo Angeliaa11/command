@@ -119,6 +119,14 @@ fungsi nya :
 
 **34. last** = Berfungsi untuk menampilkan riwayat login pengguna ke sistem.
 
+![Image](https://github.com/user-attachments/assets/4bad40a0-efd3-4d13-a869-357947c11596)
+
+**35. who** = Berfungsi untuk menampilkan informasi tentang pengguna yang sedang login ke sistem tersebut.
+
+**36. env** = digunakan untuk menampilkan daftar variabel lingkungan (environment variables) yang aktif di sistem operasi, serta                     nilai- nilai yang terkait dengan variabel tersebut.
+
+
+
 
 
 
