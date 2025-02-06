@@ -155,6 +155,12 @@ fungsi nya :
 
 **46. dig example.com** = Melakukan query DNS dan menampilkan informasi terkait domain.
 
+![Image](https://github.com/user-attachments/assets/f1857cb2-5ef6-4ce4-8aeb-86052925ece3)
+
+**47. lsusb** = berfungsi Menampilkan daftar perangkat USB yang terhubung ke komputer
+
+**48. lspci** = berfungsi untuk Menampilkan informasi perangkat PCI.
+
 
 
 
